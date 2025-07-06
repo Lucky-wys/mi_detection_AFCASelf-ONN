@@ -1,4 +1,4 @@
-# Deep Learning for Cardiologist-level Myocardial Infarction Detection in Electrocardiogram
+# AFCASelf-ONN: A Myocardial Infarction Detection Model with Self-Organized Operational Neural Networks and Adaptive Frequency-Channel Attention for Dual-Lead ECG Analysis
 
 This repository includes a PyTorch implementation of 'AFCASelf-ONN: A Myocardial Infarction Detection Model with Self-Organized Operational Neural Networks and Adaptive Frequency-Channel Attention for Dual-Lead ECG Analysis' . Our code makes use of the Physikalisch-Technische Bundesanstalt (PTB) database, available [here](https://physionet.org/content/ptbdb/1.0.0/).
 
