@@ -4,7 +4,8 @@ This repository includes a PyTorch implementation of 'AFCASelf-ONN: A Myocardial
 
 The architecture of the model is as follows:
 
-![alt text](image.png)
+![alt text](<img width="677" height="546" alt="image" src="https://github.com/user-attachments/assets/52dc1aa0-4187-4c96-aab1-92f3c004dce3" />
+)
 
 The architecture of the AFCA is as follows:
 
@@ -20,4 +21,5 @@ The architecture of the AFCA is as follows:
 #### Train the network
 
 You can run the main.py function to run the code directly and change some of the parameters and models.
+
 
